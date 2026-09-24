@@ -84,7 +84,7 @@ export const PERSONAL_INFO = {
   emailHref: "mailto:amalbasbas55@gmail.com",
   phoneDisplay: "0708-077222",
   phoneHref: "tel:0708077222",
-  location: "Beni Mellal, Maroc",
+  location: "Tanger, Maroc",
   linkedinLabel: "LinkedIn",
   githubLabel: "GitHub",
   heroBadges: ["Java", "Spring Boot", "JavaScript", "MySQL", "Docker", "SEO"],
