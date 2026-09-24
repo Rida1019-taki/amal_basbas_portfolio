@@ -5,9 +5,9 @@
 
 export const EXTERNAL_LINKS = {
   // Remplacer par le vrai profil LinkedIn d'Amal BASBAS (ex: "https://www.linkedin.com/in/amal-basbas")
-  linkedin: "https://www.linkedin.com/in/amal-basbas",
+  linkedin: "https://www.linkedin.com/in/amal-bas/",
   // Remplacer par le vrai profil GitHub d'Amal BASBAS (ex: "https://github.com/amal-basbas")
-  github: "https://github.com/amal-basbas",
+  github: "https://github.com/AmalBas1",
   // Liens GitHub spécifiques aux projets (facilement modifiables)
   projects: {
     healthcareGithub: "https://github.com/amal-basbas/healthcare-management-system",
