@@ -10,10 +10,9 @@ export const EXTERNAL_LINKS = {
   github: "https://github.com/AmalBas1",
   // Liens GitHub spécifiques aux projets (facilement modifiables)
   projects: {
-    healthcareGithub: "https://github.com/amal-basbas/healthcare-management-system",
-    healthcareLiveOrDoc: "#projet-healthcare-details",
-    smartParkingGithub: "https://github.com/amal-basbas/smart-parking",
-    logitrackGithub: "https://github.com/amal-basbas/logitrack-solutions",
+    healthcareGithub: "https://github.com/AmalBas1/HealthCare-",
+    smartParkingGithub: "https://github.com/AmalBas1/Parking_intelligent",
+    logitrackGithub: "https://github.com/AmalBas1/LogiTrack",
   },
   // Chemin vers le fichier CV PDF dans le dossier public/ (si vous déposez votre PDF dans public/CV_Amal_BASBAS.pdf)
   cvPdfPath: "/CV_Amal_BASBAS.pdf",
